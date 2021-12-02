@@ -224,9 +224,9 @@ jobs:
                                       # Add epel repositories on an Amazon Linux instance    https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/add-repositories.html
           command: |                  # Install Ansible from epel repositories
                     cd ~/
-                    git clone https://github.com/GoogleCloudPlatform/microservices-demo.git
+                    git clone https://github.com/abdelrazekrizk/Project-5-Cloud-DevOps-Engineer-Capstone
                     ls -la
-                    cd ~/microservices-demo
+                    cd ~/Project-5-Cloud-DevOps-Engineer-Capstone
                     pwd
       - attach_workspace:
           at: ~/

@@ -1,3 +1,7 @@
+[![Docker](https://github.com/abdelrazekrizk/Project-5-Cloud-DevOps-Engineer-Capstone/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/abdelrazekrizk/Project-5-Cloud-DevOps-Engineer-Capstone/actions/workflows/docker-publish.yml)
+[![Docker Image CI](https://github.com/abdelrazekrizk/Project-5-Cloud-DevOps-Engineer-Capstone/actions/workflows/docker-image.yml/badge.svg)](https://github.com/abdelrazekrizk/Project-5-Cloud-DevOps-Engineer-Capstone/actions/workflows/docker-image.yml)
+
+
 
 # Project-5-Cloud-DevOps-Engineer-Capstone
 
@@ -75,17 +79,25 @@ hold starter code
 
  # stage one
 
-  * using Circleci to create Create Infrastructure  
-Step 1: Set Up Prerequisites   
-Step 2: Launch an EC2 Instance   
-Create a Security Group for Your Amazon EC2 Instance Launch Your EC2 Instance   
+  * using Circleci to create Create Infrastructure
+
+Step 1: Set Up Prerequisites 
+
+Step 2: Launch an EC2 Instance  
+
+Create a Security Group for Your Amazon EC2 Instance Launch Your EC2 Instance 
+
 Step 3: Install and Configure Jenkins 
+
 
  <img src="pic\stage1.png"/>
 
 # stage Two
  
 using Jenkins to run app and test it
+
+ <img src="pic\stage2.png"/>
+
 
 
 
