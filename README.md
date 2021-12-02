@@ -2,7 +2,6 @@
 [![Docker Image CI](https://github.com/abdelrazekrizk/Project-5-Cloud-DevOps-Engineer-Capstone/actions/workflows/docker-image.yml/badge.svg)](https://github.com/abdelrazekrizk/Project-5-Cloud-DevOps-Engineer-Capstone/actions/workflows/docker-image.yml)
 
 
-
 # Project-5-Cloud-DevOps-Engineer-Capstone
 
 Appliyng Skilles
@@ -18,7 +17,9 @@ Appliyng Skilles
 # Using Circle CI to Create our infrastructure
 
 implement Continuous Integration and Continuous Deployment
+
 ## Working with Ansible and CloudFormation to deploy
+
 - configure-Jenkins-server
 - configure-prometheus-node-exporter
 - Deploy-Jenkins-server
@@ -28,7 +29,8 @@ implement Continuous Integration and Continuous Deployment
 - Install-minikube-Engine
 - install-virtualbox
 
-### project 
+### project
+
 Migration from Google cloud to AWS cloud
 
 our senario 
@@ -36,7 +38,7 @@ our senario
 
 -  udacity-web is a cloud-native microservices demo application 
 
- <img src="pic\blue-background.png" width="425"/> <img src="pic\green-background.png" width="425"/>   
+<img src="pic\blue-background.png" width="425"/> <img src="\pic\green-background.png" width="425"/>   
 
  Google Cloud Platform (GCP)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Amazon Web Service (AWS)  
 
@@ -44,10 +46,9 @@ our senario
 
 <img src="pic\googl-cloud-computing.png" width="425"/> <img src="pic\AmazonWebService(AWS).png" width="425"/> 
 
-
   Or from On Premise&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To any Cloud provider services
 
- <img src="pic\On-Prem.png" width="425"/> <img src="pic\cloud provider services.png" width="425"/>  
+<img src="pic\On-Prem.png" width="425"/> <img src="pic\cloud provider services.png" width="425"/>  
 
 
  # Continuous Integration
@@ -90,13 +91,13 @@ Create a Security Group for Your Amazon EC2 Instance Launch Your EC2 Instance
 Step 3: Install and Configure Jenkins 
 
 
- <img src="pic\stage1.png"/>
+<img src="pic\stage1.png"/>
 
 # stage Two
  
 using Jenkins to run app and test it
 
- <img src="pic\stage2.png"/>
+<img src="pic\stage2.png"/>
 
 
 
