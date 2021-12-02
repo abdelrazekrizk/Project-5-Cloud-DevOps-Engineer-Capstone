@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/abdelrazekrizk/Project-5-Cloud-DevOps-Engineer-Capstone/tree/main.svg?style=svg)](https://circleci.com/gh/abdelrazekrizk/Project-5-Cloud-DevOps-Engineer-Capstone/tree/main)
 [![Docker](https://github.com/abdelrazekrizk/Project-5-Cloud-DevOps-Engineer-Capstone/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/abdelrazekrizk/Project-5-Cloud-DevOps-Engineer-Capstone/actions/workflows/docker-publish.yml)
 [![Docker Image CI](https://github.com/abdelrazekrizk/Project-5-Cloud-DevOps-Engineer-Capstone/actions/workflows/docker-image.yml/badge.svg)](https://github.com/abdelrazekrizk/Project-5-Cloud-DevOps-Engineer-Capstone/actions/workflows/docker-image.yml)
 

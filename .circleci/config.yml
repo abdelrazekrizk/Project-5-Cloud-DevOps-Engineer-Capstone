@@ -442,8 +442,8 @@ workflows:
           context:
           - AWSPolicy
           - Slack-notifications
-      - cleanup:
-          context:
-          - AWSPolicy
-          - Slack-notifications
-          requires: [workflow-id-update]
+      #- cleanup:
+          #context:
+          #- AWSPolicy
+          #- Slack-notifications
+          #requires: [workflow-id-update]
