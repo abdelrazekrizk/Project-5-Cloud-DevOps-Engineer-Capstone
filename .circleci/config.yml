@@ -233,7 +233,7 @@ jobs:
       - run:
           name: copy start code to s3
           command: |
-                    aws s3 cp ~/microservices-demo s3://jenkins-code-"${CIRCLE_WORKFLOW_ID:0:7}" --recursive
+                    aws s3 cp ~/Project-5-Cloud-DevOps-Engineer-Capstone s3://jenkins-code-"${CIRCLE_WORKFLOW_ID:0:7}" --recursive
       - persist_to_workspace:
           root: ~/
           paths:
