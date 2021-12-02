@@ -38,7 +38,7 @@ our senario
 
 -  udacity-web is a cloud-native microservices demo application 
 
-<img src="pic\blue-background.png" width="425"/> <img src="\pic\green-background.png" width="425"/>   
+<img src="pic\blue-background.png" width="425"/> <img src="pic\green-background.png" width="425"/>   
 
  Google Cloud Platform (GCP)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Amazon Web Service (AWS)  
 
