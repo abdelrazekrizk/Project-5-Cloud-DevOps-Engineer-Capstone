@@ -3,6 +3,7 @@
 https://github.com/abdelrazekrizk/Project-5-Cloud-DevOps-Engineer-Capstone
 
 2-Public Url to dockerHub Image
+https://hub.docker.com/repository/docker/abdelrazekrizk/udacity-web
 
 3-Public URL for jenkins server
 http://3.229.86.142:8080/
